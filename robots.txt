@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-moz6r2.agen1381vgg.cfd/sitemap.xml
